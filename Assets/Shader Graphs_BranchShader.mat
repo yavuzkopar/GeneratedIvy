@@ -35,14 +35,14 @@ Material:
     m_Ints: []
     m_Floats:
     - _Clip: 1
-    - _Grow: 1
+    - _Grow: 0
     - _Metalic: 0
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Scale: 0
     - _Smoothness: 0
     m_Colors:
-    - _Color: {r: 0.013777931, g: 0.6792453, b: 0, a: 0}
+    - _Color: {r: 0, g: 1, b: 0, a: 0}
     - _Vector3: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &6335689501011459277
